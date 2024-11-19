@@ -57,42 +57,6 @@ Install dependencies using:
 pip install -r requirements.txt
 ```
 
-### **Repository Structure**
-```
-Deep_Learning/
-├── datasets/
-│   ├── mnist/
-│   ├── cifar10/
-│
-├── basics/
-│   ├── perceptron_from_scratch.py
-│   ├── gradient_descent_implementation.py
-│
-├── models/
-│   ├── cnn/
-│   │   ├── cnn_classifier.py
-│   │   ├── custom_cnn_architecture.ipynb
-│   │
-│   ├── rnn/
-│   │   ├── text_generation_rnn.py
-│
-├── projects/
-│   ├── image_classification/
-│   │   ├── mnist_classification.ipynb
-│   │   ├── cifar10_transfer_learning.py
-│   │
-│   ├── nlp/
-│   │   ├── sentiment_analysis.py
-│   │   ├── text_summarization.ipynb
-│
-├── research/
-│   ├── papers_summary.md
-│
-├── README.md
-└── requirements.txt
-```
-
----
 
 ## **Key Features**
 - **Step-by-step Tutorials**: Each concept is explained with theory and corresponding code.  
