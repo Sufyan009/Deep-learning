@@ -1,7 +1,3 @@
-Here's a more concise and precise version in list form:
-
----
-
 ### **RAG Information Retrieval System Overview**
 
 **Purpose:**  
@@ -47,7 +43,3 @@ Here's a more concise and precise version in list form:
 - **Technologies**: Streamlit, LangChain, HuggingFace, FAISS, PyTorch
 - **Techniques**: Retrieval, Summarization, Embeddings, Chunking
 - **Models**: BART, Sentence Transformers
-
----
-
-This is a concise, yet comprehensive version with all important details intact.
